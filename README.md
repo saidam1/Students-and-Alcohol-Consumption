@@ -48,4 +48,4 @@ model_selection
 
 ## Technical Notebook
 
-http://localhost:8888/notebooks/Final%20601%20Project%20Technical%20Notebook.ipynb#Interpretations
+https://github.com/saidam1/Students-and-Alcohol-Consumption/blob/main/Final%20601%20Project%20Technical%20Notebook.ipynb
